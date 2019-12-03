@@ -21,3 +21,25 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 *  2019/10/09:  Paper accepted to appear in Evolutionary Intelligence: "[A novel hybrid bat algorithm with a fast clustering-based hybridization](https://link.springer.com/article/10.1007/s12065-019-00307-5)"
 
+
+
+# Publications
+
+ * S. Eskandar. , M Masoud Javidi, A novel hybrid bat algorithm with a fast clustering-based hybridization, Evolutionary Intelligence
+
+* MM.Javidi, S. Eskandari, Online Streaming Feature Selection: A Minimum Redundancy Maximum Significance Approach, Pattern Analysis And Applications
+
+* MM.Javidi, S. Eskandari. A noise resistant dependency measure for rough set-based feature selection, Journal of Intelligent & Fuzzy Systems Preprint: 1-14,2017..
+
+ * MM. Javidi, S. Eskandari, Streamwise Feature Selection: Rough Set Method, International Journal of Machine Learning and Cybernatics, 2016
+
+ * S. Eskandari, MM. Javidi, Online Streaming Feature Selection Using Rough Sets, International Journal of Approximate Reasoning, vol. 69, pp. 35-57, 2016
+
+ * MK. Rafsanjani, S. Eskandari, AB Saeid, A similarity-based mechanism to control genetic algorithm and local search hybridization to solve traveling salesman problem, Neural Computing and Applications, vol. 26(1), pp. 213-222, 2015
+
+ * MK. Rafsanjani, S. Eskandari, Using Segment-based Genetic Algorithm with Local Search to Find Approximate Solution for Multi-Stage Supply Chain Network Design Problem, Çankaya University Journal of Science and Engineering, vol. 10(2), pp. 185-201, 2013
+
+
+
+
+
