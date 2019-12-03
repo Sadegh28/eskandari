@@ -14,4 +14,6 @@ I recieved my PhD in applied mathematics from Shahid Bahonar University of Kerma
 I received my MSc in Computer Science from Shahid Bahonar University of Kerman, where I worked on intelligent supply chain managements systems under supervision of professor [Marjan Kuchki Rafsanjani](http://compsci.uk.ac.ir/en/~kuchaki). I have also worked as a base station transmitter (BTS) maintenance expert at [ICT-TCI](https://www.tci.ir/) (Mazandaran Branch) for two years. 
 
 
+# News
+⋅⋅* 2019/11/19
 
