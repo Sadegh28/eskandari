@@ -19,5 +19,5 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 *  2019/11/19:  Paper accepted to appear in csc2019: "A Similarity Meadure Based on Geometric Series To Early BA Population Detection" (oral presentaion)(persian)
 
-*  2019/10/09:  Paper accepted to appear in Evolutionary Intelligence: "[A Similarity Meadure Based on Geometric Series To Early BA Population Detection](https://link.springer.com/article/10.1007/s12065-019-00307-5)"
+*  2019/10/09:  Paper accepted to appear in Evolutionary Intelligence: "[A novel hybrid bat algorithm with a fast clustering-based hybridization](https://link.springer.com/article/10.1007/s12065-019-00307-5)"
 
