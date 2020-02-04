@@ -25,6 +25,21 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 # Teaching
 * [Advanced Programming (Spring 2020 or 98-99(2))](https://sadegh28.github.io/AP98992/)  
 
+# Honors 
+* MSRT (Ministry of Science, Research and Technology) PHD scholarship award, 2015.
+* Best faculty researcher prize at Shahid Bahonar University of Kerman, 2014.
+* Best faculty researcher prize at Shahid Bahonar University of Kerman, 2016.
+* First rank during master studies.
+
+# Activity
+* Sabbatical at the Vision Lab, Middle East Technical University(METU or ODTU), 2016
+* Refereed papers for [Information Sciences](https://www.journals.elsevier.com/information-sciences), [International Journal of Approximate Reasoning](https://www.journals.elsevier.com/international-journal-of-approximate-reasoning), [Congnitive Computation](https://link.springer.com/journal/12559) and [Iranian Journal of Fuzzy Systems](http://ijfs.usb.ac.ir/).
+
+# Research Interests
+* Artificial Intelligence 
+* Machine Learning 
+* Deep Learning
+
 # Publications
 
  * S. Eskandar. , M Masoud Javidi, A novel hybrid bat algorithm with a fast clustering-based hybridization, Evolutionary Intelligence
