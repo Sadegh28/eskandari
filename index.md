@@ -23,7 +23,10 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # Teaching
+* Artificial Intelligence (Fall 2020) ===> The link will be avalable soon :)
+* Advanced Progarmming (Fall 2020) ===> The link will be avalable soon :)
 * [Advanced Programming (Spring 2020 or 98-99(2))](https://sadegh28.github.io/AP98992/)  
+
 
 # Honors 
 * MSRT (Ministry of Science, Research and Technology) PHD scholarship award, 2015.
