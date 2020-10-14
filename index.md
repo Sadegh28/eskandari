@@ -15,6 +15,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # News
+* 2020/10/14: Paper accepted to appear in Signal and Data Processing (JSDP) journal: "Online Streaming Feature Selection Using Geometric Series of the Adjacency Matrix of Features" (persian) 
 * 2019/11/19:  Paper accepted to appear in csc2019: "An Online Streaming Feature Selection Based on Functional Dependency" (oral presentaion)(persian)
 
 *  2019/11/19:  Paper accepted to appear in csc2019: "A Similarity Meadure Based on Geometric Series To Early BA Population Detection" (oral presentaion)(persian)
@@ -29,6 +30,8 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # Honors 
+* Best E-training teacher of the Faculty of Mathematical Science, 2020. 
+* Best teacher of the Department of Computer Science (from students point of view) 2018. 
 * MSRT (Ministry of Science, Research and Technology) PHD scholarship award, 2015.
 * Best faculty researcher prize at Shahid Bahonar University of Kerman, 2014.
 * Best faculty researcher prize at Shahid Bahonar University of Kerman, 2016.
