@@ -49,6 +49,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 * Deep Learning
 
 # Publications
+* S. Eskandar, Online Streaming Feature Selection Using Geometric Series of the Adjacency Matrix of Features, Signal and Data Processing
 
  * S. Eskandar. , M Masoud Javidi, A novel hybrid bat algorithm with a fast clustering-based hybridization, Evolutionary Intelligence
 
