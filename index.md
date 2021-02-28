@@ -15,8 +15,8 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # News
-* 2021/1/21: Paper accepted to appear in Journal of Mathematical Modeling (JMM): "An Intrusion Detection System with a Parallel Multi-Layer Neural Network" 
-* 2020/10/14: Paper accepted to appear in Signal and Data Processing (JSDP) journal: "Online Streaming Feature Selection Using Geometric Series of the Adjacency Matrix of Features" (persian) 
+* 2021/1/21: Paper accepted to appear in Journal of Mathematical Modeling (JMM): ["An Intrusion Detection System with a Parallel Multi-Layer Neural Network"](https://jmm.guilan.ac.ir/article_4608.html) 
+* 2020/10/14: Paper accepted to appear in Signal and Data Processing (JSDP) journal: ["Online Streaming Feature Selection Using Geometric Series of the Adjacency Matrix of Features"](http://jsdp.rcisp.ac.ir/article-1-942-fa.html) (persian) 
 * 2019/11/19:  Paper accepted to appear in csc2019: "An Online Streaming Feature Selection Based on Functional Dependency" (oral presentaion)(persian)
 
 *  2019/11/19:  Paper accepted to appear in csc2019: "A Similarity Meadure Based on Geometric Series To Early BA Population Detection" (oral presentaion)(persian)
