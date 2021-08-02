@@ -26,6 +26,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # Teaching
+* [Mathematical Foundations of Data Science (Graduate) (Fall 2021)]
 * [Artificial Intelligence (Fall 2021)]
 * [Advanced Progarmming (Fall 2021)]
 * [Advanced Progarmming (Spring 2020)](https://sadegh28.github.io/AP99002/) 
