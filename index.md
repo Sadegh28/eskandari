@@ -55,7 +55,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 # Publications
 
 * S. Eskandari, Streamwise feature selection on big data using noise resistant rough functional dependency, Journal of Mathematical Processing
-* 
+
 * S. Eskandar, Online Streaming Feature Selection Using Geometric Series of the Adjacency Matrix of Features, Signal and Data Processing
 
  * S. Eskandar. , M Masoud Javidi, A novel hybrid bat algorithm with a fast clustering-based hybridization, Evolutionary Intelligence
