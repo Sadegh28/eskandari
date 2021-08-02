@@ -17,18 +17,11 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 * 2021/8/2: I will teach a new graduate course "Mathematical Foundations of Data Science" in Fall 2021
 * 2021/4/22: Paper accepted to appear in Journal of Mathematical Modeling (JMM): ["Streamwise feature selection on big data using noise resistant rough functional dependency"](https://jmm.guilan.ac.ir/article_4761.html) 
 * 2021/1/21: Paper accepted to appear in Journal of Mathematical Modeling (JMM): ["An Intrusion Detection System with a Parallel Multi-Layer Neural Network"](https://jmm.guilan.ac.ir/article_4608.html) 
-* 2020/10/14: Paper accepted to appear in Signal and Data Processing (JSDP) journal: ["Online Streaming Feature Selection Using Geometric Series of the Adjacency Matrix of Features"](http://jsdp.rcisp.ac.ir/article-1-942-fa.html) (persian) 
-* 2019/11/19:  Paper accepted to appear in csc2019: "An Online Streaming Feature Selection Based on Functional Dependency" (oral presentaion)(persian)
-
-*  2019/11/19:  Paper accepted to appear in csc2019: "A Similarity Meadure Based on Geometric Series To Early BA Population Detection" (oral presentaion)(persian)
-
-*  2019/10/09:  Paper accepted to appear in Evolutionary Intelligence: "[A novel hybrid bat algorithm with a fast clustering-based hybridization](https://link.springer.com/article/10.1007/s12065-019-00307-5)"
-
 
 # Teaching
-* [Mathematical Foundations of Data Science (Graduate) (Fall 2021)]
-* [Artificial Intelligence (Fall 2021)]
-* [Advanced Progarmming (Fall 2021)]
+* [Mathematical Foundations of Data Science (Graduate) (Fall 2021)]()
+* [Artificial Intelligence (Fall 2021)]()
+* [Advanced Progarmming (Fall 2021)]()
 * [Advanced Progarmming (Spring 2020)](https://sadegh28.github.io/AP99002/) 
 * [Artificial Intelligence (Fall 2020)](https://sadegh28.github.io/AI99001/)  
 * [Advanced Progarmming (Fall 2020)](https://sadegh28.github.io/AP99001/)
