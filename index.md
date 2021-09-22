@@ -19,9 +19,8 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 * 2021/1/21: Paper accepted to appear in Journal of Mathematical Modeling (JMM): ["An Intrusion Detection System with a Parallel Multi-Layer Neural Network"](https://jmm.guilan.ac.ir/article_4608.html) 
 
 # Teaching
-* [Mathematical Foundations of Data Science (Graduate) (Fall 2021)]()
-* [Artificial Intelligence (Fall 2021)]()
-* [Advanced Progarmming (Fall 2021)]()
+* [Artificial Intelligence (Fall 2021)](https://sadegh28.github.io/AI1400-1/)
+* [Advanced Progarmming (Fall 2021)](https://sadegh28.github.io/AP1400-1/)
 * [Advanced Progarmming (Spring 2020)](https://sadegh28.github.io/AP99002/) 
 * [Artificial Intelligence (Fall 2020)](https://sadegh28.github.io/AI99001/)  
 * [Advanced Progarmming (Fall 2020)](https://sadegh28.github.io/AP99001/)
