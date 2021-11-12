@@ -21,12 +21,10 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 * 2021/1/21: Paper accepted to appear in Journal of Mathematical Modeling (JMM): ["An Intrusion Detection System with a Parallel Multi-Layer Neural Network"](https://jmm.guilan.ac.ir/article_4608.html) 
 
 # Teaching
-* [Artificial Intelligence (Fall 2021)](https://sadegh28.github.io/AI1400-1/)
-* [Advanced Progarmming (Fall 2021)](https://sadegh28.github.io/AP1400-1/)
-* [Advanced Progarmming (Spring 2020)](https://sadegh28.github.io/AP99002/) 
-* [Artificial Intelligence (Fall 2020)](https://sadegh28.github.io/AI99001/)  
-* [Advanced Progarmming (Fall 2020)](https://sadegh28.github.io/AP99001/)
-* [Advanced Programming (Spring 2020 or 98-99(2))](https://sadegh28.github.io/AP98992/)  
+* Mathematical Foundations of Data Science (Graduate) (Fall 2021)
+* Topics in Machine Learning (Graduate, co-taught with [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en)) (Spring 2020)
+* Artificial Intelligence (Undergraduate) [(Fall 2021)](https://sadegh28.github.io/AI1400-1/)[(Fall 2020)](https://sadegh28.github.io/AI99001/)(Fall 2019)(Fall 2018)(Fall 2017)(Fall 2016) 
+* Advanced Progarmming (Undergraduate) [(Fall 2021)](https://sadegh28.github.io/AP1400-1/)[(Spring 2020)](https://sadegh28.github.io/AP99002/)[(Fall 2020)](https://sadegh28.github.io/AP99001/)[(Spring 2020)](https://sadegh28.github.io/AP98992/)(Fall 2019)(Spring 2019)(Fall 2018)(Spring 2018)(Fall 2017)(Spring 2017)(Fall 2016)(Spring 2016)   
 
 
 # Honors 
@@ -38,6 +36,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 * First rank during master studies.
 
 # Activity
+* Assistant Professor, [Department of Computer Science, Universtiy of Guilan](https://guilan.ac.ir/en/department-of-computer-sciences)
 * Sabbatical at the Vision Lab, Middle East Technical University(METU or ODTU), 2016
 * Refereed papers for [Information Sciences](https://www.journals.elsevier.com/information-sciences), [International Journal of Approximate Reasoning](https://www.journals.elsevier.com/international-journal-of-approximate-reasoning), [Congnitive Computation](https://link.springer.com/journal/12559) and [Iranian Journal of Fuzzy Systems](http://ijfs.usb.ac.ir/).
 
