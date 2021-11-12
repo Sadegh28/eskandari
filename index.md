@@ -45,6 +45,11 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 * Machine Learning 
 * Deep Learning
 
+# Graduate Students
+* [Ali Salhleh](https://www.linkedin.com/in/ali-sahleh-45a4b3159/): PhD Student (co-advised with [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en))
+* Faezeh Hassani: MsC Student (co-advised with [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en))
+
+
 # Publications
 
 * S. Eskandari, Streamwise feature selection on big data using noise resistant rough functional dependency, Journal of Mathematical Processing
