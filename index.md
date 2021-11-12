@@ -8,12 +8,14 @@ eskandari  at guilan dot ac dot ir
 
 
 I'm broadly interested in machine learning. I am currently an Assistant Professor at [Department of Computer Science](https://guilan.ac.ir/en/department-of-computer-sciences), [University of Guilan](https://guilan.ac.ir/en/home), Rasht, Iran. 
-received my Ph.D. in applied mathematics from Shahid Bahonar University of Kerman, under supervision of professor [Mohammad Masoud Javidi](http://compsci.uk.ac.ir/en/~javidi). Before that, I spent six months at Middle East Technical University (METU),  working with professor [Emre Akbas](http://user.ceng.metu.edu.tr/~emre/).  
+I received my Ph.D. in applied mathematics from Shahid Bahonar University of Kerman, under supervision of professor [Mohammad Masoud Javidi](http://compsci.uk.ac.ir/en/~javidi). Before that, I spent six months at Middle East Technical University (METU),  working with professor [Emre Akbas](http://user.ceng.metu.edu.tr/~emre/).  
 
 I received my MSc in Computer Science from Shahid Bahonar University of Kerman, where I worked on intelligent supply chain managements systems under supervision of professor [Marjan Kuchki Rafsanjani](http://compsci.uk.ac.ir/en/~kuchaki). I have also worked as a base station transmitter (BTS) maintenance expert at [ICT-TCI](https://www.tci.ir/) (Mazandaran Branch) for two years. 
 
 
 # News
+* 2021/11/7: Two papers acceptd to appear in [i4c2021](http://i4c.iust.ac.ir/index.php?option=com_content&view=article&id=7&Itemid=124&lang=en).
+* 2021/9/14: Our joint work with ALi Sahleh (phd student) and Prof.Salahi accepted to appear in [Applied Intelligence](https://www.springer.com/journal/10489): "SOCP Approach to Robust Twin Parametric Margin Support Vector Machine".
 * 2021/8/2: I will teach a new graduate course "Mathematical Foundations of Data Science" in Fall 2021
 * 2021/4/22: Paper accepted to appear in Journal of Mathematical Modeling (JMM): ["Streamwise feature selection on big data using noise resistant rough functional dependency"](https://jmm.guilan.ac.ir/article_4761.html) 
 * 2021/1/21: Paper accepted to appear in Journal of Mathematical Modeling (JMM): ["An Intrusion Detection System with a Parallel Multi-Layer Neural Network"](https://jmm.guilan.ac.ir/article_4608.html) 
