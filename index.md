@@ -14,6 +14,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # News
+* 2021/11/27: I will be serving in the organization committee of the [9th Seminar on Numerical Analysis and Its Applications](http://snaa9.guilan.ac.ir/Home/Index)
 * 2021/11/7: Two papers acceptd to appear in [i4c2021](http://i4c.iust.ac.ir/index.php?option=com_content&view=article&id=7&Itemid=124&lang=en).
 * 2021/9/14: Our joint work with Prof.Salahi and ALi Sahleh (phd student)  accepted to appear in [Applied Intelligence](https://www.springer.com/journal/10489): "SOCP Approach to Robust Twin Parametric Margin Support Vector Machine".
 * 2021/8/2: I will teach a new graduate course "Mathematical Foundations of Data Science" in Fall 2021
