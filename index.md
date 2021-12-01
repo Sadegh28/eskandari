@@ -39,7 +39,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 # Activity
 * Assistant Professor, [Department of Computer Science, Universtiy of Guilan](https://guilan.ac.ir/en/department-of-computer-sciences), 2016 -- present 
 * Sabbatical at the Vision Lab, Middle East Technical University(METU or ODTU), 2016
-* Refereed papers for [Information Sciences](https://www.journals.elsevier.com/information-sciences), [International Journal of Approximate Reasoning](https://www.journals.elsevier.com/international-journal-of-approximate-reasoning), [Congnitive Computation](https://link.springer.com/journal/12559) and [Iranian Journal of Fuzzy Systems](http://ijfs.usb.ac.ir/).
+* Refereed papers for [Information Sciences](https://www.journals.elsevier.com/information-sciences), [International Journal of Approximate Reasoning](https://www.journals.elsevier.com/international-journal-of-approximate-reasoning), [Congnitive Computation](https://link.springer.com/journal/12559), [cifs2022](https://cfis2022.bam.ac.ir/) and [Iranian Journal of Fuzzy Systems](http://ijfs.usb.ac.ir/).
 
 # Research Interests
 * Artificial Intelligence 
