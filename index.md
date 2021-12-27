@@ -14,6 +14,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # News
+* 2021/12/27: Two papers acceptd to appear in [csc2021](http://csc.guilan.ac.ir/Home).
 * 2021/11/27: I will be serving in the organization committee of the [9th Seminar on Numerical Analysis and Its Applications](http://snaa9.guilan.ac.ir/Home/Index)
 * 2021/11/7: Two papers acceptd to appear in [i4c2021](http://i4c.iust.ac.ir/index.php?option=com_content&view=article&id=7&Itemid=124&lang=en).
 * 2021/9/14: Our joint work with Prof.Salahi and ALi Sahleh (phd student)  accepted to appear in [Applied Intelligence](https://www.springer.com/journal/10489): "SOCP Approach to Robust Twin Parametric Margin Support Vector Machine".
@@ -49,29 +50,6 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 # Graduate Students
 * [Ali Salhleh](https://www.linkedin.com/in/ali-sahleh-45a4b3159/): PhD Student (co-advised with [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en))
 * Faezeh Hassani: MsC Student (co-advised with [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en))
-
-
-# Publications
-
-* S. Eskandari, Streamwise feature selection on big data using noise resistant rough functional dependency, Journal of Mathematical Processing
-
-* S. Eskandar, Online Streaming Feature Selection Using Geometric Series of the Adjacency Matrix of Features, Signal and Data Processing
-
- * S. Eskandar. , M Masoud Javidi, A novel hybrid bat algorithm with a fast clustering-based hybridization, Evolutionary Intelligence
-
-* MM.Javidi, S. Eskandari, Online Streaming Feature Selection: A Minimum Redundancy Maximum Significance Approach, Pattern Analysis And Applications
-
-* MM.Javidi, S. Eskandari. A noise resistant dependency measure for rough set-based feature selection, Journal of Intelligent & Fuzzy Systems Preprint: 1-14,2017..
-
- * MM. Javidi, S. Eskandari, Streamwise Feature Selection: Rough Set Method, International Journal of Machine Learning and Cybernatics, 2016
-
- * S. Eskandari, MM. Javidi, Online Streaming Feature Selection Using Rough Sets, International Journal of Approximate Reasoning, vol. 69, pp. 35-57, 2016
-
- * MK. Rafsanjani, S. Eskandari, AB Saeid, A similarity-based mechanism to control genetic algorithm and local search hybridization to solve traveling salesman problem, Neural Computing and Applications, vol. 26(1), pp. 213-222, 2015
-
- * MK. Rafsanjani, S. Eskandari, Using Segment-based Genetic Algorithm with Local Search to Find Approximate Solution for Multi-Stage Supply Chain Network Design Problem, Çankaya University Journal of Science and Engineering, vol. 10(2), pp. 185-201, 2013
-
-
 
 
 
