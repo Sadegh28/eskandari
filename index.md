@@ -30,7 +30,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # Honors 
-* Best E-training teacher of the Faculty of Mathematical Science, 2020. 
+* Best E-teacher of the Faculty of Mathematical Science, 2020. 
 * Best teacher of the Department of Computer Science (from students point of view) 2018. 
 * MSRT (Ministry of Science, Research and Technology) PHD scholarship award, 2015.
 * Best faculty researcher prize at Shahid Bahonar University of Kerman, 2014.
