@@ -49,7 +49,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 * Deep Learning
 
 # Graduate Students
-* [Ali Salhleh](https://www.linkedin.com/in/ali-sahleh-45a4b3159/): PhD Student (co-advised with [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en))
+* [Ali Sahleh](https://www.linkedin.com/in/ali-sahleh-45a4b3159/): PhD Student (co-advised with [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en))
 * Faezeh Hassani: MsC Student (co-advised with [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en))
 
 
