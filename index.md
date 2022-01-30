@@ -14,6 +14,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # News
+* 2022/1/30 : [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en) and I will co-teach a new graduate course "The Theory of Learning" in Spring 2022 
 * 2021/12/27: Two papers acceptd to appear in [csc2021](http://csc.guilan.ac.ir/Home).
 * 2021/11/27: I will be serving in the organization committee of the [9th Seminar on Numerical Analysis and Its Applications](http://snaa9.guilan.ac.ir/Home/Index)
 * 2021/11/7: Two papers acceptd to appear in [i4c2021](http://i4c.iust.ac.ir/index.php?option=com_content&view=article&id=7&Itemid=124&lang=en).
