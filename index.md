@@ -14,15 +14,13 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # News
+* 2022/3/20: Paper accepted to appear in the Journal of Supercomputing: "Multi-Label Feature Selection Using Geometric Series of Relevance Matrix".
 * 2022/1/30: Paper accepted to appear in International Journal of Research in Industrial Engineering: ["PyIT-MLFS: A Python-based Information Theoretical Multi-Label Feature Selection Library"](http://www.riejournal.com/) ...... [Link to Library](https://github.com/Sadegh28/PyIT-MLFS) 
 * 2022/1/30 : [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en) and I will co-teach a new graduate course "The Theory of Learning" in Spring 2022 
 * 2021/12/27: Two papers acceptd to appear in [csc2021](http://csc.guilan.ac.ir/Home).
 * 2021/11/27: I will be serving in the organization committee of the [9th Seminar on Numerical Analysis and Its Applications](http://snaa9.guilan.ac.ir/Home/Index)
 * 2021/11/7: Two papers acceptd to appear in [i4c2021](http://i4c.iust.ac.ir/index.php?option=com_content&view=article&id=7&Itemid=124&lang=en).
-* 2021/9/14: Our joint work with Prof.Salahi and ALi Sahleh (phd student)  accepted to appear in [Applied Intelligence](https://www.springer.com/journal/10489): "SOCP Approach to Robust Twin Parametric Margin Support Vector Machine".
-* 2021/8/2: I will teach a new graduate course "Mathematical Foundations of Data Science" in Fall 2021
-* 2021/4/22: Paper accepted to appear in Journal of Mathematical Modeling (JMM): ["Streamwise feature selection on big data using noise resistant rough functional dependency"](https://jmm.guilan.ac.ir/article_4761.html) 
-* 2021/1/21: Paper accepted to appear in Journal of Mathematical Modeling (JMM): ["An Intrusion Detection System with a Parallel Multi-Layer Neural Network"](https://jmm.guilan.ac.ir/article_4608.html) 
+
 
 # Teaching
 * Learning Algorithms (Graduate) [Spring 2022](https://sadegh28.github.io/ML2022/) 
