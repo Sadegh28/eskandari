@@ -24,6 +24,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # Teaching
+* Deep Learning (Graduate) [Fall 2022](https://sadegh28.github.io/DL2022/)
 * Learning Algorithms (Graduate) [Spring 2022](https://sadegh28.github.io/ML2022/) 
 * Mathematical Foundations of Data Science (Graduate) (Fall 2021)
 * Topics in Machine Learning (Graduate, co-taught with [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en)) (Spring 2020)
