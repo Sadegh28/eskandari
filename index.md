@@ -14,6 +14,7 @@ I received my MSc in Computer Science from Shahid Bahonar University of Kerman, 
 
 
 # News
+* 2022/8/29: Paper accepted to appear in Pattern Recognition: ["Online and Offline Streaming Feature Selection Methods with Bat Algorithm For Redundancy Analysis"](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004873).
 * 2022/3/20: Paper accepted to appear in the Journal of Supercomputing: ["Multi-Label Feature Selection Using Geometric Series of Relevance Matrix"](https://link.springer.com/article/10.1007/s11227-022-04451-1).
 * 2022/1/30: Paper accepted to appear in International Journal of Research in Industrial Engineering: ["PyIT-MLFS: A Python-based Information Theoretical Multi-Label Feature Selection Library"](http://www.riejournal.com/) ...... [Link to Library](https://github.com/Sadegh28/PyIT-MLFS) 
 * 2022/1/30 : [Prof.Salahi](https://scholar.google.com/citations?user=8cXhHrsAAAAJ&hl=en) and I will co-teach a new graduate course "The Theory of Learning" in Spring 2022 
